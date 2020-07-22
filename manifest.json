@@ -1,0 +1,8 @@
+{
+  "domain": "xiaomi_scale",
+  "name": "小米体重秤",
+  "documentation": "https://bbs.hassbian.com/thread-16-1-1.html",
+  "dependencies": [],
+  "codeowners": ["@dodiu"],
+  "requirements": ["pybluez==0.22"]
+}

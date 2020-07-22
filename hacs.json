@@ -1,0 +1,7 @@
+﻿{
+  "name": "xiaomi_scale",
+  "domains": ["sensor"],
+  "content_in_root": false,
+  "country": "CN",
+  "render_readme": true
+}

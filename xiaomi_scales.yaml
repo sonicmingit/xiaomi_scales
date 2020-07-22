@@ -1,0 +1,20 @@
+# pip3 install pybluez==0.22
+# https://bbs.hassbian.com/thread-16-1-1.html
+
+
+sensor:
+  #小米体重秤
+  - platform: xiaomi_scale
+    mac: 'xx:xx:xx:xx:xx:xx'
+    name: scales
+
+
+
+homeassistant:
+  customize:
+    sensor.scales:
+      friendly_name: 小米体重秤
+      icon: mdi:scale-bathroom
+      unit_of_measurement: '斤'
+
+  
