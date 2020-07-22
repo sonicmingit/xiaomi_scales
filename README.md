@@ -9,6 +9,16 @@ https://bbs.hassbian.com/thread-16-1-1.html
 
 ![1595433366400](img/1595433366400.png)
 
+
+
+### HACS
+
+```
+https://github.com/sonicmingit/xiaomi_scales
+```
+
+
+
 ### yaml配置
 
 ```yaml
